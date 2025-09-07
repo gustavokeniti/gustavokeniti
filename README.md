@@ -1,9 +1,9 @@
 # Hi there im Gustavo Keniti! 👋
-🔭 Undergraduate Computer Science at SPTech School
+- 🔭 Undergraduate Computer Science at SPTech School
 
-🌱 Learning Front End, Computer Architecture, Database, Back End, Business
+- 🌱 Learning Front End, Computer Architecture, Database, Back End, Business
 
-📫 Contact me at: gustavo.keniti@sptech.school
+- 📫 Contact me at: gustavo.keniti@sptech.school
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
